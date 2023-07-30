@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunandasharma61/Project-product-management.git"
+    "url": "git+https://shivamshukla0912/Project-product-management.git"
   },
-  "author": "Sunanda Sharma",
+  "author": "Shivam SHukla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunandasharma61/Project-product-management/issues"
+    "url": "https://github.com/shivamshukla0912/Project-product-management/issues"
   },
-  "homepage": "https://github.com/sunandasharma61/Project-product-management#readme",
+  "homepage": "https://github.com/shivamshukla0912/Project-product-management#readme",
   "dependencies": {
     "aws-sdk": "^2.1285.0",
     "bcrypt": "^5.1.0",
